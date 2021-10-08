@@ -17,6 +17,13 @@ export default function Home() {
 					</Link>
 				</h1>
 
+				<h4>
+					Next js users{" "}
+					<Link href="/users">
+						<a>users</a>
+					</Link>
+				</h4>
+
 				<p className="description">
 					Get started by editing <code>pages/index.js</code>
 				</p>
